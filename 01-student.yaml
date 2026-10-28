@@ -1,0 +1,34 @@
+- first_name : "kathyayini devi palla"
+  last_name : "Palla"
+  dob : 01-01-01
+  Address : 
+  - type: permanent
+    stree no: "55 nolancrest"
+    city : "calgary"
+    post code : "t3r 0v7"
+  - type : temperory
+    street no : 40
+    city : " alberta"
+  skills:
+    os : linus
+    ide : visual code
+    cm : ansible
+
+- first_name : "kathyayini devi palla"
+  last_name : "Palla"
+  dob : 01-01-01
+  Address : 
+  - type: permanent
+    stree no: "55 nolancrest"
+    city : "calgary"
+    post code : "t3r 0v7"
+  - type : temperory
+    street no : 40
+    city : " alberta"
+  skills:
+    os : linus
+    ide : visual code
+    cm : ansible
+    
+
+  
